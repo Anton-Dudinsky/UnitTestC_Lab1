@@ -1,0 +1,15 @@
+D:\u0\MobileLabs\Mobile_Lab1\Mobile_Lab1\bin\Debug\net6.0\Mobile_Lab1.exe
+D:\u0\MobileLabs\Mobile_Lab1\Mobile_Lab1\bin\Debug\net6.0\Mobile_Lab1.deps.json
+D:\u0\MobileLabs\Mobile_Lab1\Mobile_Lab1\bin\Debug\net6.0\Mobile_Lab1.runtimeconfig.json
+D:\u0\MobileLabs\Mobile_Lab1\Mobile_Lab1\bin\Debug\net6.0\Mobile_Lab1.dll
+D:\u0\MobileLabs\Mobile_Lab1\Mobile_Lab1\bin\Debug\net6.0\ref\Mobile_Lab1.dll
+D:\u0\MobileLabs\Mobile_Lab1\Mobile_Lab1\bin\Debug\net6.0\Mobile_Lab1.pdb
+D:\u0\MobileLabs\Mobile_Lab1\Mobile_Lab1\obj\Debug\net6.0\Mobile_Lab1.csproj.AssemblyReference.cache
+D:\u0\MobileLabs\Mobile_Lab1\Mobile_Lab1\obj\Debug\net6.0\Mobile_Lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\u0\MobileLabs\Mobile_Lab1\Mobile_Lab1\obj\Debug\net6.0\Mobile_Lab1.AssemblyInfoInputs.cache
+D:\u0\MobileLabs\Mobile_Lab1\Mobile_Lab1\obj\Debug\net6.0\Mobile_Lab1.AssemblyInfo.cs
+D:\u0\MobileLabs\Mobile_Lab1\Mobile_Lab1\obj\Debug\net6.0\Mobile_Lab1.csproj.CoreCompileInputs.cache
+D:\u0\MobileLabs\Mobile_Lab1\Mobile_Lab1\obj\Debug\net6.0\Mobile_Lab1.dll
+D:\u0\MobileLabs\Mobile_Lab1\Mobile_Lab1\obj\Debug\net6.0\ref\Mobile_Lab1.dll
+D:\u0\MobileLabs\Mobile_Lab1\Mobile_Lab1\obj\Debug\net6.0\Mobile_Lab1.pdb
+D:\u0\MobileLabs\Mobile_Lab1\Mobile_Lab1\obj\Debug\net6.0\Mobile_Lab1.genruntimeconfig.cache
